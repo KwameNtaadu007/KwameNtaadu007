@@ -29,9 +29,9 @@ Diligent software engineering student, enthusiast, and a seasoned General Insura
 
 #### Current Focus & Collaboration 👯
 
-- 🔭 **I’m currently working on** indemnity.com
+- 🔭 **I’m currently working on** indemnity.com , [Cargo Deliveries.co](https://cargodeliveries.co/)
 - 👯 **I’m looking to collaborate** on React projects.
 
 #### Let's Connect! 🤝
 
-Feel free to reach out to discuss collaborations, share ideas, or just have a chat! Don't hesitate to explore my repositories and contribute to open-source projects. Let's innovate and build together! 🌟
+Feel free to reach out!  Let's innovate and build together! 🌟
