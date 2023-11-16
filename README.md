@@ -1,16 +1,31 @@
-### Hi there 👋
+### Hello, World! 👋
+Emmanuel Ntaadu Gyamfi - @KwameNtaadu007
+Diligent software engineering student, enthusiast, and a seasoned General Insurance Underwriter with a knack for crafting impactful applications and websites that streamline business operations and enhance customer experiences.
 
-<!--
-**KwameNtaadu007/KwameNtaadu007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me ℹ️
+🎓 Software Engineering Student with a passion for creating innovative tech solutions.
+🏢 Professional Experience: Managing insurance databases, crafting applications for process enhancement, and troubleshooting IT infrastructure.
+🌍 Based in Accra, Ghana 🇬🇭.
+📞 Contact: +233 024 638 6799 | engyamfi@st.ug.edu.gh
+🌐 GitHub: KwameNtaadu007
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ALX Africa - Software Engineering Program (2023 - Present)
+Learning and contributing to the dynamic field of software engineering.
+
+Certifications 🎓
+Meta Front-End Developer
+Cisco Certified Network Associate (Routing and Switching) - CISCO (2018)
+Bachelor of Arts in Geography & Economics - University Of Ghana
+
+Skills & Proficiencies 🚀
+Languages: JavaScript, HTML, CSS, Python
+
+Frameworks & Tools: React, Next JS, MongoDB, Bootstrap, Tailwind, Figma
+
+- 🔭 I’m currently working on indemnity.com
+- 👯 I’m looking to collaborate React projects.
+Let's Connect! 🤝
+Feel free to reach out to discuss collaborations, share ideas, or just have a chat! Don't hesitate to explore my repositories and contribute to open-source projects. Let's innovate and build together! 🌟
+
