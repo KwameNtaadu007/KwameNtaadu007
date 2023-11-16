@@ -25,7 +25,7 @@ Diligent software engineering student, enthusiast, and a seasoned General Insura
 #### Skills & Proficiencies 🚀
 
 - **Languages:** JavaScript, HTML, CSS, Python
-- **Tech Stack & Tools:** React| Next JS| Node | Express | MongoDB | Bootstrap | Tailwind | Figma
+- **Tech Stack & Tools:** React | Next JS | Node | Express | MongoDB | Bootstrap | Tailwind | Figma
 
 #### Current Focus & Collaboration 👯
 
