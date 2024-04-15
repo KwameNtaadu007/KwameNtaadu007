@@ -25,6 +25,7 @@ A software engineering student, enthusiast, and a seasoned General Insurance Und
 #### Skills & Proficiencies 🚀
 
 - **Languages:**
+  
 ![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)
   
