@@ -2,7 +2,8 @@
 
 **Emmanuel Ntaadu Gyamfi** - @KwameNtaadu007
 
-A software engineering student, enthusiast, and a seasoned General Insurance Underwriter with a knack for crafting impactful applications and websites that streamline business operations and enhance customer experiences.
+A software engineering student, enthusiast, and a seasoned General Insurance Underwriter eager to
+apply my skills to real-world challenges in a high-performance team.
 
 #### About Me ℹ️
 
@@ -10,16 +11,17 @@ A software engineering student, enthusiast, and a seasoned General Insurance Und
 - 🏢 Professional Experience: Insurance.
 - 🌍 Based in Accra, Ghana 🇬🇭.
 - 📞 **Contact:** engyamfi@st.ug.edu.gh
-- 🌐 **Portfolio:**  https://engdev.tech
+- 🌐 **Portfolio:**  https://engdev-95f1f.web.app/
 
 #### Experience & Education 🎓
-
-- 🌱 **ALX Africa - Software Engineering Program** (2023 - Present)  
-  Learning and contributing to the dynamic field of software engineering.
+- 🌱 **University Of Ghana - MSC in Computer Science** (2024 - Present)  
+  
+- 🌱 **ALX Africa - Software Engineering Program** (2023 - 2024)  
   
 - 🎓 **Certifications:**
   - Meta Front-End Developer
   - Cisco Certified Network Associate (Routing and Switching) - CISCO (2018)
+  - ALX Software Engineering
   
 
 #### Skills & Proficiencies 🚀
