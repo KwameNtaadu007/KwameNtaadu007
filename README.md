@@ -20,6 +20,7 @@ apply my skills to real-world challenges in a high-performance team.
   
 - 🎓 **Certifications:**
   - Meta Front-End Developer
+  - Django Web Framework - Coursera
   - Cisco Certified Network Associate (Routing and Switching) - CISCO (2018)
   - ALX Software Engineering
   
@@ -52,10 +53,4 @@ apply my skills to real-world challenges in a high-performance team.
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- **Hosting:**
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-
-
-
-#### Let's Connect! 🤝
 
