@@ -6,8 +6,7 @@ A software engineer, and a seasoned General Insurance Underwriter.
 
 #### About Me ℹ️
 
-- 🎓 Software Engineering Student with a passion for creating innovative tech solutions.
-- 🏢 Professional Experience: Insurance.
+- 🎓 Software Engineer with a unique background in General Insurance Underwriting and Marketing.
 - 🌍 Based in Accra, Ghana 🇬🇭.
 - 📞 **Contact:** engyamfi@st.ug.edu.gh
 - 🌐 **Portfolio:**  https://engtech.web.app/
